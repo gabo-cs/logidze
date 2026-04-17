@@ -2,6 +2,8 @@
 
 ## master (unreleased)
 
+- Add `Logidze.default_history_size_limit` configuration option to set a default history size limit for newly generated triggers. ([@gabo-cs][])
+
 - Add block-less versions of `with_responsible` and `with_metata`. ([@atomaka][])
 
 ## 1.4.1 (2025-06-05)
